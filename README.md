@@ -1,7 +1,7 @@
 # Quartz Scheduler
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150/2E86C1/FFFFFF?text=QS" alt="QuartzScheduler Logo" height="150">
+  <img width="150" height="150" alt="QuartzIcon" src="https://github.com/user-attachments/assets/5dceea5b-0ac3-4a28-827d-997ab543798d" />
 </p>
 
 ---
@@ -16,6 +16,8 @@
 Inspired by [Quartzmin](https://github.com/jlucansky/Quartzmin), this project provides a complete rewrite with modern technologies, offering an intuitive and feature-rich interface for managing your Quartz.NET job schedulers.
 
 > [Quartz.NET](https://www.quartz-scheduler.net) is a full-featured, open source job scheduling system that can be used from smallest apps to large scale enterprise systems. This project serves as a frontend management tool for [Quartz Scheduler](https://github.com/quartz-scheduler/quartz).
+
+![QuartzScheduler](https://github.com/user-attachments/assets/5d569b21-ee91-4adb-ab5f-d41a67aa7ada)
 
 ## ✨ Key Features
 
