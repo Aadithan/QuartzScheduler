@@ -1,0 +1,51 @@
+/* Custom styles to remove gap between tabs and content */
+.ant-tabs {
+  margin-bottom: 0 !important;
+}
+
+.ant-tabs-content-holder {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.ant-tabs-tabpane {
+  padding-top: 0 !important;
+}
+
+.ant-tabs-tab-bar {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: none !important;
+}
+
+.ant-tabs-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.ant-tabs-nav {
+  margin-bottom: 0 !important;
+}
+
+.ant-tabs-nav-wrap {
+  padding-bottom: 0 !important;
+}
+
+/* Ensure seamless connection */
+.page-tabs-container {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.page-tabs-container .ant-tabs {
+  margin-bottom: 0 !important;
+}
+
+.page-tabs-container .ant-tabs-nav {
+  margin-bottom: 0 !important;
+}
+
+.content-area {
+  margin-top: -2px !important;
+  border-top: none !important;
+}
